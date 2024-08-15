@@ -2,6 +2,10 @@
 Download paintings Data Set from <a href="https://www.kaggle.com/datasets/mexwell/famous-paintings">Kaggle</a>
 ## Introduction
 Importing data manually into your database especially when its a number of tables, can not only be tiresome but also time consuming. This can be made easier by use of python libraries.
+## Objectives
+- Retrieve relevant data from relational databases.
+- Summarize large datasets to identify trends and patterns.
+- Identify specific segments or trends within data.
 
 ## Tools Used
 - Pg - Admin
