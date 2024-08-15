@@ -1,7 +1,7 @@
 # Painting Case Study MYSQL
-Download paintings Data Set from <a href="https://www.kaggle.com/datasets/mexwell/famous-paintings">Kaggle</a>
+
 ## Introduction
-Importing data manually into your database especially when its a number of tables, can not only be tiresome but also time consuming. This can be made easier by use of python libraries.
+Importing data manually into your database especially when its a number of tables, can not only be tiresome but also time consuming. This can be made easier by use of python libraries. Download paintings Data Set from <a href="https://www.kaggle.com/datasets/mexwell/famous-paintings">Kaggle</a>
 ## Objectives
 - Retrieve relevant data from relational databases.
 - Summarize large datasets to identify trends and patterns.
