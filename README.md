@@ -1,5 +1,5 @@
 # Painting Case Study MYSQL
-![image](https://github.com/user-attachments/assets/ff55a6cc-9bfd-46a8-871b-487af88c9599)
+![image](https://github.com/user-attachments/assets/8aea63b3-fd27-433a-876a-621993280836)
 
 ## Introduction
 Importing data manually into your database especially when its a number of tables, can not only be tiresome but also time consuming. This can be made easier by use of python libraries. Download paintings Data Set from <a href="https://www.kaggle.com/datasets/mexwell/famous-paintings">Kaggle</a>
