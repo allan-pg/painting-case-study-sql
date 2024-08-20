@@ -242,3 +242,4 @@ or rnk > no_of_records - 3;
 
 ## Reccomendations
 - Cities where museums are located and are in number format should be named properly
+- Assess the situation of paintings not hanged in museums and hang those that are fit to be hanged
