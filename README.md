@@ -227,3 +227,16 @@ from cte
 where rnk <=3
 or rnk > no_of_records - 3;
 ```
+## Findings
+- There includes a number of paintings not hanged in museums - 14719 paintings
+- All museums have a number of paintings
+- Highest price canvas size is  ['48" x 96"(122 cm x 244 cm)'] and the price is  1115
+- Cities where some museums are located are in number format
+- Potrait is the most famous painting subject with 1070 paintings
+- 17 museums are open everyday
+- The museum of modern art in New York has the most number of paintings with 939 painting
+- "Pierre-Auguste Renoir" has made the most number of painting at 469 paintings
+- "Musée du Louvre" in paris is open the most number of hours by being opened over 12 hours
+
+## Reccomendations
+- Cities where museums are located and are in number format should be named properly
