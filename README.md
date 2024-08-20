@@ -12,6 +12,7 @@ Importing data manually into your database especially when its a number of table
 - Pg - Admin
 - Jupyter Notebook
 
+## Data Modelling
 ## Painting Database Schema
 ![image](https://github.com/user-attachments/assets/a76dfedf-9def-4d91-ae2c-4bbdbe065d2f)
 
